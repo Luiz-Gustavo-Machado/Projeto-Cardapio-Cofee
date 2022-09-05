@@ -6,7 +6,7 @@
 
 Front-end: HTML & CSS
 
-Deploy <a href="https://app.netlify.com/sites/jade-faun-5a47da/overview" target="_blank">Formulário Avançado</a>
+Deploy: <a href="https://app.netlify.com/sites/jade-faun-5a47da/overview" target="_blank">Acesse o Link da Pagina aqui</a>
 
  <h2>Imagem de referência</h2>
  
