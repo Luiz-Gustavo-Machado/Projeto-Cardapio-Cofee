@@ -1,6 +1,6 @@
 <h1> CARDÁPIO ON-LINE PARA CAFETERIAS OU RESTAURANTES! </h1>
 
-<p> Há opção para ser ultilizado coM QR Code App</p>
+<p> Há opção para ser ultilizado com QR Code App</p>
 
 <h3>Stack utilizada</h3>
 
