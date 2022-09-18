@@ -2,7 +2,7 @@
 
 > Há opção para ser ultilizado com QR Code App
 
-# Stack utilizada 
+### Stack utilizada 
 
 Front-end: HTML & CSS
 
