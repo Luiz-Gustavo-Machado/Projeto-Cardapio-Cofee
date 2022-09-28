@@ -10,5 +10,6 @@ Deploy: 🔗 <a href="https://app.netlify.com/sites/jade-faun-5a47da/overview" t
 
 # Imagem de referência 
 
-![Site Cardápio png](https://user-images.githubusercontent.com/108701750/185726705-34857747-5eb3-47ec-bc5c-4aea7c4fd485.png)
+![Site Cardápio png](https://user-images.githubusercontent.com/108701750/185726705-34857747-5eb3-47ec-bc5c-4aea7c4fd485.png)  ![image](https://user-images.githubusercontent.com/108701750/192908715-fda1fd0b-d3a5-4a3f-9628-1a0cad48a01e.png)
+
  
