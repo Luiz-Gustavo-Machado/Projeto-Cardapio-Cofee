@@ -18,7 +18,7 @@
 
 ### 🔖 Layout CARDÁPIO ON-LINE
 
-Você pode visualizar o layout do projeto através 🔗 [desse link](https://app.netlify.com/sites/jade-faun-5a47da/overview).
+Você pode visualizar o layout do projeto através 🔗 [desse link](https://jade-faun-5a47da.netlify.app/).
 
 ![image](https://user-images.githubusercontent.com/108701750/192908853-9048453b-fe46-4388-bb16-ae3e9cbb4315.png)  ![image](https://user-images.githubusercontent.com/108701750/192908715-fda1fd0b-d3a5-4a3f-9628-1a0cad48a01e.png)
 
